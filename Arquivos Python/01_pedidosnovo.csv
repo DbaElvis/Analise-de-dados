@@ -1,0 +1,44 @@
+,DataPedido,Regiao,Estado,Vendedor,Item,Unidades,PrecoUnidade
+0,2016-06-07,Nordeste,Pernambuco,Tobias,Geladeira,62,400.99
+1,2016-07-11,Nordeste,Paraíba,Nadia,Microondas,29,100.99
+2,2016-07-20,Sudeste,Minas Gerais,Carlos,Geladeira,55,1200.49
+3,2016-07-19,Nordeste,Bahia,Tania,Microondas,81,1900.99
+4,2016-08-16,Sudeste,Rio de Janeiro,Pedro,Geladeira,42,2300.95
+5,2016-08-22,Nordeste,Alagoas,Tobias,Fogao,35,400.99
+6,2016-08-24,Sul,Santa Catarina,Mauricio,Lavadora,3,2750.0
+7,2016-09-10,Sudeste,Minas Gerais,Smith,Lavadora,2,1250.0
+8,2016-09-10,Sudeste,Rio de Janeiro,Alan,Fogao,7,1000.29
+9,2016-09-12,Nordeste,Pernambuco,Tobias,Geladeira,16,1500.99
+10,2016-09-26,Sul,Rio Grande do Sul,Mauricio,Fogao,76,1450.99
+11,2016-10-15,Sudeste,Minas Gerais,Carlos,Microondas,28,890.99
+12,2016-10-14,Sul,Rio Grande do Sul,Thomas,Microondas,57,1900.99
+13,2016-10-22,Nordeste,Sergipe,Tobias,Fogao,64,800.99
+14,2016-10-31,Sudeste,Rio de Janeiro,Raquel,Fogao,14,1340.29
+15,2016-11-18,Nordeste,Bahia,Tania,Fogao,15,1900.99
+16,2016-11-17,Sudeste,Rio de Janeiro,Alex,Microondas,11,1400.99
+17,2016-11-22,Sudeste,Minas Gerais,Pedro,Geladeira,96,1450.99
+18,2016-12-14,Sudeste,Rio de Janeiro,Alex,Microondas,94,1900.99
+19,2016-12-12,Sudeste,Rio de Janeiro,Smith,Fogao,67,1900.29
+20,2016-12-21,Sudeste,Rio de Janeiro,Raquel,Microondas,28,2400.99
+21,2016-12-29,Nordeste,Pernambuco,Tania,Geladeira,74,1500.99
+22,2017-01-16,Nordeste,Ceará,Tobias,Fogao,95,1350.99
+23,2017-01-05,Sudeste,São Paulo,Alan,Microondas,46,800.99
+24,2017-01-23,Sudeste,São Paulo,Pedro,Microondas,50,1900.99
+25,2017-02-01,Sudeste,São Paulo,Smith,Microondas,87,1500.0
+26,2017-02-09,Sudeste,São Paulo,Alex,Fogao,36,400.99
+27,2017-02-18,Nordeste,Ceará,Tobias,Microondas,4,1420.99
+28,2017-02-26,Sudeste,São Paulo,Alan,Fogao,27,1999.99
+29,2017-03-07,Sul,Paraná,Mauricio,Microondas,7,1900.99
+30,2017-03-15,Sul,Santa Catarina,Mauricio,Fogao,56,2340.99
+31,2017-03-24,Sudeste,São Paulo,Alex,Geladeira,50,1433.99
+32,2017-04-01,Nordeste,Pernanbumco,Tobias,Microondas,60,2400.99
+33,2017-04-10,Sudeste,São Paulo,Raquel,Fogao,66,1900.99
+34,2017-04-18,Sudeste,São Paulo,Raquel,Fogao,75,1800.99
+35,2017-04-27,Nordeste,Bahia,Nadia,Fogao,96,400.99
+36,2017-05-05,Sudeste,São Paulo,Alex,Fogao,90,1422.99
+37,2017-05-14,Sudeste,São Paulo,Alan,Fogao,53,1340.29
+38,2017-05-22,Sul,Rio Grande do Sul,Thomas,Fogao,32,1700.99
+39,2017-05-31,Sudeste,São Paulo,Alan,Microondas,80,800.99
+40,2017-06-08,Nordeste,Rio Grande do Norte,Tobias,Microondas,60,800.99
+41,2017-06-10,Sudeste,São Paulo,Pedro,Lavadora,5,1250.0
+42,2017-06-11,Sudeste,São Paulo,Carlos,Fogao,90,400.99
